@@ -1,6 +1,6 @@
 <h1 align="center" color="red">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-<a href="https://www.linkedin.com/in/emil-nasyrov/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=10&pause=1000&color=F71E45&center=true&vCenter=true&repeat=false&width=390&height=25&lines=Hi+there%2C+I'm+Emil+Nasyrov" alt="Typing SVG" /></a>
+<a href="https://www.linkedin.com/in/emil-nasyrov/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=10&pause=1000&center=true&vCenter=true&repeat=false&width=390&height=25&lines=Hi+there%2C+I'm+Emil+Nasyrov" alt="Typing SVG" /></a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 <h3 align="center">
 
