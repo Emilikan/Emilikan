@@ -4,7 +4,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 <h3 align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Java/Kotlin%20back-end%20developer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&vCenter=true&pause=1000&size=20)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Java/Kotlin%20back-end%20developer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&vCenter=true&pause=1000&size=20)
   
 <p align="center">
 <img width="20px" alt="Telegram" title="Telegram" src="https://github.com/Emilikan/Emilikan/blob/main/qiwi-color.svg"/>
